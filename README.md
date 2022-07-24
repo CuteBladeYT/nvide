@@ -30,3 +30,9 @@ cd ~/nvide
 sudo ./uninstall.sh
 ```
 Voila!
+
+# How to use it
+If you have it installed, just run `nvide` in your terminal.
+<br><br>
+If you can't run nvide because of incorrect data in your config, run `nvide --nano-cfg`.<br>
+If you just want to edit config, run `nvide --config`.
