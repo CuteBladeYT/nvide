@@ -9,6 +9,9 @@
     },
 
     "launch": {
-        "options": []
+        "options": {
+            "nvim": [],
+            "neovide": []
+        }
     }
 }
