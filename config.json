@@ -1,0 +1,14 @@
+{
+    "server": {
+        "port": 6841
+    },
+
+    "path_to": {
+        "neovide": "neovide",
+        "neovim": "nvim"
+    },
+
+    "launch": {
+        "options": []
+    }
+}
