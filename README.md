@@ -2,8 +2,6 @@
 Easy remote TCP connection for Neovide and Neovim
 
 ### How it works
-Simply just a shell and python file, configured in json.<br>
-Shell script (`server.sh`) hosts the nvim server on custom port (see `config.json`).<br>
 Python file (`nvide.py`) is the heart of it all. This file reads the config file and shares the data with server, while running Neovide.
 
 ### How to install / uninstall
